@@ -89,13 +89,13 @@ export function AboutUs() {
             </div>
             <div>
               <h3 className="text-xl font-semibold mb-4">Contact us</h3>
-              <p className="text-gray-400">RUKO GRAND HARVEST BLOK HO-22, Kecamatan Wiyung, Kelurahan Balas Klumprik, RW 1, RT 3, Kota Surabaya.</p>
+              <p className="text-gray-400">Ruko Grand Harvest Blok HO-22, Kecamatan Wiyung, Kelurahan Balas Klumprik, RW 1, RT 3, Kota Surabaya.</p>
               <p className="text-gray-400">Phone: +62 811-2700-9887</p>
               <p className="text-gray-400">Email: admin@nusantaramahautama.com</p>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-            <p>© 2024 Nusantara Maha Utama. All rights reserved.</p>
+            <p>© 2025 Nusantara Maha Utama. All rights reserved.</p>
           </div>
         </div>
       </footer>

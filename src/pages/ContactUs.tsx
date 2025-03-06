@@ -5,7 +5,7 @@ import { Mail, Phone, MapPin } from 'lucide-react';
 export function ContactUs() {
   return (
     <div className="min-h-screen">
-      <Navigation />
+      <Navigation heroHeight={300} />
       
       {/* Hero Section */}
       <section className="relative h-[60vh] bg-black">
@@ -29,46 +29,17 @@ export function ContactUs() {
             <div className="text-center">
               <Mail className="w-12 h-12 mx-auto text-blue-600 mb-4" />
               <h3 className="text-xl font-semibold mb-2">Email</h3>
-              <p className="text-gray-600">director@yukti.co.id</p>
+              <p className="text-gray-600">admin@nusantaramhaautama.com</p>
             </div>
             <div className="text-center">
               <Phone className="w-12 h-12 mx-auto text-blue-600 mb-4" />
               <h3 className="text-xl font-semibold mb-2">Phone</h3>
-              <p className="text-gray-600">0811-2546-008</p>
+              <p className="text-gray-600">+62 811-2700-9887</p>
             </div>
             <div className="text-center">
               <MapPin className="w-12 h-12 mx-auto text-blue-600 mb-4" />
               <h3 className="text-xl font-semibold mb-2">Address</h3>
-              <p className="text-gray-600">Puri Chandra Asri A20, Batubalan, Sukawati, Gianyar, Bali</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Image Gallery Section */}
-      <section className="py-20 bg-gray-50">
-        <div className="container mx-auto px-6">
-          <div className="grid md:grid-cols-3 gap-8">
-            <div className="overflow-hidden rounded-lg shadow-lg">
-              <img 
-                src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
-                alt="Office Interior" 
-                className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300"
-              />
-            </div>
-            <div className="overflow-hidden rounded-lg shadow-lg">
-              <img 
-                src="https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
-                alt="Meeting Room" 
-                className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300"
-              />
-            </div>
-            <div className="overflow-hidden rounded-lg shadow-lg">
-              <img 
-                src="https://images.unsplash.com/photo-1497215842964-222b430dc094?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
-                alt="Office Space" 
-                className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300"
-              />
+              <p className="text-gray-600">Ruko Grand Harvest Blok HO-22, Kecamatan Wiyung, Kelurahan Balas Klumprik, RW 1, RT 3, Kota Surabaya.</p>
             </div>
           </div>
         </div>
@@ -131,13 +102,13 @@ export function ContactUs() {
             </div>
             <div>
               <h3 className="text-xl font-semibold mb-4">Contact us</h3>
-              <p className="text-gray-400">Puri Chandra Asri A20, Batubalan, Sukawati, Gianyar, Bali</p>
-              <p className="text-gray-400">Phone: 0811-2546-008</p>
-              <p className="text-gray-400">Email: director@yukti.co.id</p>
+              <p className="text-gray-400">Ruko Grand Harvest Blok HO-22, Kecamatan Wiyung, Kelurahan Balas Klumprik, RW 1, RT 3, Kota Surabaya.</p>
+              <p className="text-gray-400">Phone: +62 811-2700-9887</p>
+              <p className="text-gray-400">Email: admin@nusantaramahautama.com</p>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-            <p>© 2024 Yukti Persada Nadi. All rights reserved.</p>
+            <p>© 2025 Nusantara Maha Utama. All rights reserved.</p>
           </div>
         </div>
       </footer>

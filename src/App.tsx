@@ -83,10 +83,10 @@ function HomePage() {
             <div>
               <h2 className="text-4xl font-serif mb-6">ABOUT US</h2>
               <p className="text-gray-600 leading-relaxed mb-6">
-                Our company is focused on delivering service to bring quality and client satisfaction in designing & organising event with experienced professionals with unique concept for both indoors & outbound activities. Our legal form is a limited liability company (Perseroan Terbatas/ PT) under the name of PT. Yukti Persada Nadi, a company focused on MICE event organizer.
+              Our company is focused on delivering service to bring quality and client satisfaction in designing & organizing events with experienced professionals and unique concepts for both indoor & outbound activities. Our legal form is a limited liability company (Perseroan Terbatas/PT) under the name of PT. Nusantara Maha Utama, a company focused on MICE event organizing.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                We progress with innovation and thirst to evolve from time to time. We study trends to be ahead of trends. We integrate creativity, experience, technology and local value in our service to bring unique concepts to the events.
+              We progress with innovation and a thirst to evolve over time. We study trends to stay ahead of them. We integrate creativity, experience, technology, and local values into our service to bring unique concepts to events.
               </p>
             </div>
             <div>
@@ -150,10 +150,10 @@ function HomePage() {
             <div>
               <h3 className="text-xl font-semibold mb-4">About Us</h3>
               <p className="text-gray-400">
-                Our company is focused on delivering service to bring quality and client satisfaction in designing & organising event with experienced professionals with unique concept for both indoors & outbound activities. Our legal form is a limited liability company (Perseroan Terbatas/ PT) under the name of PT. Yukti Persada Nadi, a company focused on MICE event organizer.
+              Our company is focused on delivering service to bring quality and client satisfaction in designing & organizing events with experienced professionals and unique concepts for both indoor & outbound activities. Our legal form is a limited liability company (Perseroan Terbatas/PT) under the name of PT. Nusantara Maha Utama, a company focused on MICE event organizing.
               </p>
               <p className="text-gray-400 mt-4">
-                We progress with innovation and thirst to evolve from time to time. We study trends to be ahead of trends. We integrate creativity, experience, technology and local value in our service to bring unique concepts to the events.
+              We progress with innovation and a thirst to evolve over time. We study trends to stay ahead of them. We integrate creativity, experience, technology, and local values into our service to bring unique concepts to events.
               </p>
             </div>
             <div>
@@ -161,12 +161,12 @@ function HomePage() {
               <div className="space-y-2">
                 <p className="text-gray-400">Email: admin@nusantaramahautama.com</p>
                 <p className="text-gray-400">Phone: 62 811-2700-9887</p>
-                <p className="text-gray-400">Address: RUKO GRAND HARVEST BLOK HO-22, Kecamatan Wiyung, Kelurahan Balas Klumprik, RW 1, RT 3, Kota Surabaya.</p>
+                <p className="text-gray-400">Address: Ruko Grand Harvest Blok HO-22, Kecamatan Wiyung, Kelurahan Balas Klumprik, RW 1, RT 3, Kota Surabaya.</p>
               </div>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-            <p className="text-gray-400">© 2024 Nusantara Maha Utama. All rights reserved.</p>
+            <p className="text-gray-400">© 2025 Nusantara Maha Utama. All rights reserved.</p>
           </div>
         </div>
       </footer>
